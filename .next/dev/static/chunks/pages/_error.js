@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/_error", [
+  "static/chunks/c00d5_next_dist_compiled_f3ab7edc._.js",
+  "static/chunks/c00d5_next_dist_shared_lib_ce539d38._.js",
+  "static/chunks/c00d5_next_dist_client_f94aac92._.js",
+  "static/chunks/c00d5_next_dist_cdc32448._.js",
+  "static/chunks/c00d5_next_error_bd6f49d7.js",
+  "static/chunks/[next]_entry_page-loader_ts_36b6cb29._.js",
+  "static/chunks/c00d5_react-dom_00f14735._.js",
+  "static/chunks/c00d5_8c1f1c73._.js",
+  "static/chunks/[root-of-the-server]__4a64f916._.js",
+  "static/chunks/Jth_Git Repository_Home_finance-home_pages__error_2da965e7._.js",
+  "static/chunks/turbopack-Jth_Git Repository_Home_finance-home_pages__error_623569da._.js"
+])

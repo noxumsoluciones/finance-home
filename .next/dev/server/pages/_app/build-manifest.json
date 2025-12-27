@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_app": [
+      "static/chunks/c00d5_next_dist_compiled_f3ab7edc._.js",
+      "static/chunks/c00d5_next_dist_shared_lib_9e070934._.js",
+      "static/chunks/c00d5_next_dist_client_f94aac92._.js",
+      "static/chunks/c00d5_next_dist_2df7f283._.js",
+      "static/chunks/c00d5_next_app_04a58b26.js",
+      "static/chunks/[next]_entry_page-loader_ts_6f8bd459._.js",
+      "static/chunks/c00d5_react-dom_00f14735._.js",
+      "static/chunks/c00d5_8c1f1c73._.js",
+      "static/chunks/[root-of-the-server]__f8690f32._.js",
+      "static/chunks/Jth_Git Repository_Home_finance-home_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-Jth_Git Repository_Home_finance-home_pages__app_7fc62347._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
