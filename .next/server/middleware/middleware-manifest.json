@@ -1,0 +1,31 @@
+{
+  "sorted_middleware": [],
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/Jth_Git Repository_Home_finance-home_edge-wrapper_e029e0e2.js",
+        "server/edge/chunks/[root-of-the-server]__f3c46563._.js",
+        "server/edge/chunks/turbopack-Jth_Git Repository_Home_finance-home_edge-wrapper_7f4f0db9.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/((?!api|_next/static|_next/image|favicon.ico).*){(\\\\.json)}?",
+          "originalSource": "/((?!api|_next/static|_next/image|favicon.ico).*)"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "E0_8UEXd8CWk_t4mmrOBZ",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "8i0qLwKO9+MZfW5YgWav7Gd9uyWyopAQuPzY4cp84jA=",
+        "__NEXT_PREVIEW_MODE_ID": "1dab1133a5db275b9639f75dad550df8",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "0eb30e5a522b1f732b040a626c1e74964d9f08b100424a3e018becbf4a06a25f",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "42181cb0be2966952786512a6c6c997f08b2f5a95af69dd76cef0dc713f3bbf2"
+      }
+    }
+  },
+  "instrumentation": null,
+  "functions": {}
+}

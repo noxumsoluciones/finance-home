@@ -5,8 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "npx prisma generate && next build",
-    "start": "NODE_ENV=production node server.js",
+    "start": "next start node server.js",
     "lint": "eslint"
+
   },
   "dependencies": {
     "@prisma/client": "^5.19.1",

@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["chunks/Jth_Git Repository_Home_finance-home_edge-wrapper_e029e0e2.js",44757,(e,t,h)=>{self._ENTRIES||={};let n=Promise.resolve().then(()=>e.i(63247));n.catch(()=>{}),self._ENTRIES.middleware_middleware=new Proxy(n,{get(e,t){if("then"===t)return(t,h)=>e.then(t,h);let h=(...h)=>e.then(e=>(0,e[t])(...h));return h.then=(h,n)=>e.then(e=>e[t]).then(h,n),h}})}]);
+
+//# sourceMappingURL=Jth_Git%20Repository_Home_finance-home_edge-wrapper_e029e0e2.js.map

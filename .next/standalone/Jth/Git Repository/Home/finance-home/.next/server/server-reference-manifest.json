@@ -1,6 +1,6 @@
 {
   "node": {
-    "002e99beda1c0a33df07798ffe5a79a5c1c6043a83": {
+    "008fdbd994083f699dd8854c4d0eb6a2943f9bf51d": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -10,6 +10,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "getFinanceData",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "getFinanceData",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -30,13 +36,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "getFinanceData"
     },
-    "40279ae9d30fdcc290b00726baa9ef34c5a0f72f65": {
+    "40e968b2cfc4386cef6c0588e7bc21eb28460b70f7": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -46,6 +53,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "createTransaction",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "createTransaction",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -66,13 +79,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "createTransaction"
     },
-    "4027346bb16a96bc5710bb156dd7e33942ceb75b2c": {
+    "4030e415f6891bef314d353135694de478d4c32756": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -82,6 +96,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "createAccount",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "createAccount",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -102,13 +122,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "createAccount"
     },
-    "40412cb8f73087662bd4387e459f7bdb02d681216a": {
+    "40e7790d9341c7335d237f7b352192c8cfa036fea3": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -118,6 +139,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "deleteAccount",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "deleteAccount",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -138,13 +165,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "deleteAccount"
     },
-    "404d6806423da58fe44d9947c3c02dcf0f6b5850b8": {
+    "40032e05844eacdf25d6b7d82ed66a77b16261eab5": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -154,6 +182,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "createCategory",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "createCategory",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -174,13 +208,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "createCategory"
     },
-    "408415edfd55da3f10d71b19b1019440dd528a56a0": {
+    "40f6b4d1295a8cac4916fe7b3f25179337236d2abf": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -190,6 +225,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "saveSimulatorItem",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "saveSimulatorItem",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -210,13 +251,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "saveSimulatorItem"
     },
-    "40a1706ad55044cabbe45d565a8fcda2f2be4c0d52": {
+    "403d430562511b719d456c0536db65aebd6e91b25e": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -226,6 +268,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "deleteSimulatorItem",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "deleteSimulatorItem",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -246,13 +294,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "deleteSimulatorItem"
     },
-    "404d655730d259708c34ef1d2b6bb2e6eb3811d862": {
+    "40d130374367b1db7cabde64a3f250ae13e7d101aa": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -262,6 +311,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "createFixedRule",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "createFixedRule",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -282,13 +337,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "createFixedRule"
     },
-    "40c5077859b226556588a99220caeb62f347282468": {
+    "40b0d9b8410ce966e4b6f5961b9a96ac5c4efa6286": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -298,6 +354,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "deleteCategory",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "deleteCategory",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -318,13 +380,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "deleteCategory"
     },
-    "400b5d0a2c00a0215b85fa40fa9d56dbfd2a1025aa": {
+    "40fb8301ce98bbb749c06fd21e8c767ac00cc28361": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -334,6 +397,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "updateCategory",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "updateCategory",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -354,13 +423,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "updateCategory"
     },
-    "40434fc66bcb4bcc0a3f7dd9e863d8c83a98fad72c": {
+    "40f998dd9a5dc9a6c058ab72cef5121eaca27e05da": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -370,6 +440,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "deleteTransaction",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "deleteTransaction",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -390,13 +466,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "deleteTransaction"
     },
-    "40b930a64efc51b265042ada52abdb02ca3441c7a0": {
+    "40108ddec7a3504ace324e0d523142c26896503fd5": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -406,6 +483,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "updateAccount",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "updateAccount",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -426,13 +509,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "updateAccount"
     },
-    "404ec3daa232f1845e68616f4f20e67122ccd87d92": {
+    "40a57216fcd5f73bb73224215f6e5f6c14418ade44": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -442,6 +526,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "updateFixedRule",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "updateFixedRule",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -462,13 +552,14 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "updateFixedRule"
     },
-    "402b507d2934e3bc5cc2b32d26466a40aa9e6c6191": {
+    "40c5d0175b966b97f4168bd4a643cc3b2aee4478f1": {
       "workers": {
         "app/_not-found/page": {
           "moduleId": 87840,
@@ -478,6 +569,12 @@
         },
         "app/admin/page": {
           "moduleId": 71301,
+          "async": false,
+          "exportedName": "deleteFixedRule",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
           "async": false,
           "exportedName": "deleteFixedRule",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
@@ -498,18 +595,84 @@
       "layer": {
         "app/_not-found/page": "action-browser",
         "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
         "app/page": "action-browser",
         "app/simulator/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
       "exportedName": "deleteFixedRule"
     },
-    "008f83adc5919e967f2372d0fdf8c1f34013f65333": {
+    "0054bcb9fc72be5ac9f7534d8984d395a073c82d0a": {
+      "workers": {
+        "app/_not-found/page": {
+          "moduleId": 87840,
+          "async": false,
+          "exportedName": "logoutAction",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/admin/page": {
+          "moduleId": 71301,
+          "async": false,
+          "exportedName": "logoutAction",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
+          "async": false,
+          "exportedName": "logoutAction",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/page": {
+          "moduleId": 12653,
+          "async": false,
+          "exportedName": "logoutAction",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/simulator/page": {
+          "moduleId": 36757,
+          "async": false,
+          "exportedName": "logoutAction",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        }
+      },
+      "layer": {
+        "app/_not-found/page": "action-browser",
+        "app/admin/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/page": "action-browser",
+        "app/simulator/page": "action-browser"
+      },
+      "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
+      "exportedName": "logoutAction"
+    },
+    "00cbe0b8e171bc5870b9d55c7d060db0cc218ee0a1": {
       "workers": {
         "app/admin/page": {
           "moduleId": 71301,
           "async": false,
           "exportedName": "seedDatabase",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        },
+        "app/login/page": {
+          "moduleId": 24656,
+          "async": false,
+          "exportedName": "seedDatabase",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        }
+      },
+      "layer": {
+        "app/admin/page": "action-browser",
+        "app/login/page": "action-browser"
+      },
+      "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
+      "exportedName": "seedDatabase"
+    },
+    "70fcae8e847941cbf7ce891fb335816dc7097069c5": {
+      "workers": {
+        "app/admin/page": {
+          "moduleId": 71301,
+          "async": false,
+          "exportedName": "createNewUser",
           "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
         }
       },
@@ -517,9 +680,69 @@
         "app/admin/page": "action-browser"
       },
       "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
-      "exportedName": "seedDatabase"
+      "exportedName": "createNewUser"
+    },
+    "60628952eef7cdcbed99677d3cb9c55a7fc39b7c08": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": 24656,
+          "async": false,
+          "exportedName": "loginAction",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      },
+      "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
+      "exportedName": "loginAction"
+    },
+    "00a7c4176f7e6508fba1d26311643e5cd3ddc5a668": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": 24656,
+          "async": false,
+          "exportedName": "setDemoModeAction",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      },
+      "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
+      "exportedName": "setDemoModeAction"
+    },
+    "408276486151f4231390ce056106fa5ae0bff22bee": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": 24656,
+          "async": false,
+          "exportedName": "requestLoginCode",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      },
+      "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
+      "exportedName": "requestLoginCode"
+    },
+    "70803d839ada97a9f5c38527b6ab178c5506257032": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": 24656,
+          "async": false,
+          "exportedName": "requestRegistration",
+          "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts"
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      },
+      "filename": "Jth/Git Repository/Home/finance-home/app/actions.ts",
+      "exportedName": "requestRegistration"
     }
   },
   "edge": {},
-  "encryptionKey": "oZ5zC9Q1NCMqIyMfnQ6P0IvdFUSbAF99OwvpwX0a9Nc="
+  "encryptionKey": "8i0qLwKO9+MZfW5YgWav7Gd9uyWyopAQuPzY4cp84jA="
 }
